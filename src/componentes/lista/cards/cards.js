@@ -10,7 +10,7 @@ function Cards({nome, imagem}) {
   return (
     <div className="Cards">
       <div class="heroi">
-        <img src={`../../../assets/${imagem}`} id="homemDeFerro"/>
+        <img src={`../../../assets/${imagem}`} alt="heroi" id="herois"/>
         <div>{nome}</div>
         <img src={src} alt="Coração vazil" onClick={()=>setFavorito(!favorito)}/>  
       </div>

@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Heder from './componentes/heder/heder.js';
 import Pesquisa from './componentes/pesquisa/pesquisa.js';

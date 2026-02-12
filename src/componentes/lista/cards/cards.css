@@ -1,7 +1,11 @@
+.Cards {
+    margin: 3px;
+}
+
 .heroi {
     height: 100%;
 }
 
-#homemDeFerro {
+#herois {
     height: 100px;
 }
