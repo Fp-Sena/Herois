@@ -7,13 +7,20 @@
 
 #cabecalio {
     display: flex;
-   align-items: center;
-   font-family: work sans, sans-serif;
-     color: rgba(0, 0, 0, 0.6);
+    align-items: center;
+    font-family: work sans, sans-serif;
+    color: rgba(0, 0, 0, 0.6);
+    justify-content: left;
 }
 
 .icones {
     height: 20px;
+    margin: 10px;
+}
+
+#textoVermelho {
+    display: flex;
+    color: rgb(255, 0, 0, 0.6);
 }
 
 #conteinerCards {

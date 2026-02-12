@@ -15,12 +15,13 @@ function Lista() {
     <div className="lista">
       <div id='cabecalio'>
         <h4>Encontrado 5 heróis</h4>
-        <img src={IconeHeroi} alt='icone heroi' className='icones'/>
-        <h4>Ordenar por nome - A/Z</h4>
-        <img src={IconeBotao} alt='icone botao' className='icones'/>
-        <img src={src} alt="Coração vazil" onClick={()=>setFavorito(!favorito)}/>
-        <h4>Somente favoritos</h4>
-
+        <div id='textoVermelho'>
+          <img src={IconeHeroi} alt='icone heroi' className='icones'/>
+          <h4 className='textoVermelho'>Ordenar por nome - A/Z</h4>
+          <img src={IconeBotao} alt='icone botao' className='icones'/>
+          <img src={src} alt="Coração vazil" onClick={()=>setFavorito(!favorito)} className='icones'/>
+          <h4 className='textoVermelho'>Somente favoritos</h4>
+        </div>
       </div>
 
       <div id='conteinerCards'>
