@@ -1,7 +1,4 @@
-{
-"homepage": "https://fp-sena.github.io/Herois",
-
-  "name": "layout_herois",
+{ "name": "layout_herois",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
