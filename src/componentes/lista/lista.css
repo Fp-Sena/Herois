@@ -1,0 +1,23 @@
+.lista {
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
+    align-items: center;
+}
+
+#cabecalio {
+    display: flex;
+   align-items: center;
+   font-family: work sans, sans-serif;
+     color: rgba(0, 0, 0, 0.6);
+}
+
+.icones {
+    height: 20px;
+}
+
+#conteinerCards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 35%;
+}

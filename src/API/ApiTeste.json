@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nome": "Homem de Ferro",
+    "image_path": "059eb7f9eda5c604728c7b09caba9304.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Homem-Aranha",
+    "image_path": "HomemAranha.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Capitão América",
+    "image_path": "CapitaoAmerica.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Thor",
+    "image_path": "Thor.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Hulk",
+    "image_path": "Hulk.jpg"
+  }
+]
